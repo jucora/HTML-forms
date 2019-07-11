@@ -66,3 +66,22 @@ div {
     vertical-align: text-top;
     width: .8em;
 }
+
+/*Header*/
+
+header{
+    text-align: center;
+    padding: 20px 0; 
+}
+
+.logo-container{
+    display: block;
+    margin: 0 auto;
+    width: 100%;
+}
+
+.logo-intuit{
+    height: 50px;
+    width: 150px;
+}
+
