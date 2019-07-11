@@ -1,0 +1,39 @@
+/*  Sign Up Button */
+
+div {
+    display: block;
+}
+.sign-up {
+    background: #eceef1;
+    background-color: chocolate;
+    float: none;
+    padding: 10px 30px;
+}
+.s-u-section {
+    float: right;
+    height: 40px;
+    width: 240px;
+}
+.s-u-left {
+    background-color: white;
+    float: left;
+    height: 36px;
+    margin-left: 10px;
+    text-align: right;
+    width: 100px;
+}
+.accnt-msg {
+    font-size: 12px;
+    height: 18px;
+    line-height: 1.5px;
+    margin-top: 2px;
+    width: 170px;
+}
+.s-u-right {
+    background-color: black;
+    float: left;
+    height: 34px;
+    margin-left: 10px;
+    text-align: right;
+    width: 102px;
+}
