@@ -71,53 +71,63 @@ div {
 
 header{
     text-align: center;
-    padding: 20px 0; 
+    padding: 8px 0; 
 }
-
-.logo-container{
+.logo-container {
     display: block;
     margin: 0 auto;
     width: 100%;
 }
-
-.logo-intuit{
+.logo-intuit {
     height: 50px;
     width: 150px;
 }
 
 /*Main Form*/
-.main-form{
+
+.main-form {
     display: block;
 }
-
-.form-icons{
-    height: 30px;
-    margin:auto;
+.form-icons {
+    height: 35px;
+    margin: auto;
     overflow: hidden;
+    padding-inline-start: 14px;
     text-align: center;
     width: 400px;
 }
-
-.icons-container{
+.icons-container {
     display: block;
     margin: 0 auto;
     width: 100%;
 }
-ul li{
+ul li {
     display: inline-block;
     position: relative;
 }
-
-ul img{
+ul img {
     height: 23px;
     margin-right: 4px;
+    margin-top: 2px;
     width: 23px;
 }
-
-.icon-description{
+.icon-description {
     color: gray;
     font-family: 'Nunito', sans-serif;
-    font-size: 25px;
+    font-size: 20px;
     line-height: 1.5;
+    padding: 3px;
+    vertical-align: text-bottom;
+}
+
+/* Form Area */
+
+.form-area {
+    background-color: white;
+    box-sizing: border-box;
+    margin: auto;
+    overflow: visible;
+    padding: 30px;
+    width: 380px;
 }
 
