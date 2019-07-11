@@ -85,3 +85,39 @@ header{
     width: 150px;
 }
 
+/*Main Form*/
+.main-form{
+    display: block;
+}
+
+.form-icons{
+    height: 30px;
+    margin:auto;
+    overflow: hidden;
+    text-align: center;
+    width: 400px;
+}
+
+.icons-container{
+    display: block;
+    margin: 0 auto;
+    width: 100%;
+}
+ul li{
+    display: inline-block;
+    position: relative;
+}
+
+ul img{
+    height: 23px;
+    margin-right: 4px;
+    width: 23px;
+}
+
+.icon-description{
+    color: gray;
+    font-family: 'Nunito', sans-serif;
+    font-size: 25px;
+    line-height: 1.5;
+}
+
