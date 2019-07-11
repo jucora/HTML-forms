@@ -1,39 +1,68 @@
 /*  Sign Up Button */
-
+body {
+    background: #eceef1;
+}
 div {
     display: block;
 }
 .sign-up {
     background: #eceef1;
-    background-color: chocolate;
+    /* background-color: chocolate; */
     float: none;
     padding: 10px 30px;
 }
 .s-u-section {
     float: right;
     height: 40px;
-    width: 240px;
+    width: 300px;
 }
 .s-u-left {
-    background-color: white;
+    /* background-color: white; */
     float: left;
     height: 36px;
-    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 5px;
     text-align: right;
-    width: 100px;
+    width: 170px;
 }
 .accnt-msg {
+    font-family: 'Nunito', sans-serif;
     font-size: 12px;
     height: 18px;
     line-height: 1.5px;
     margin-top: 2px;
-    width: 170px;
+    padding: 1px;
+    text-align: center;
+    width: 190px;
 }
 .s-u-right {
-    background-color: black;
     float: left;
     height: 34px;
     margin-left: 10px;
     text-align: right;
     width: 102px;
+}
+.btn {
+    background: #0077C5;
+    border: 1px solid #4c4c4c;
+    border-radius: 4px;
+    color: white;
+    cursor: pointer;
+    font-family: 'Nunito', sans-serif;
+    font-size: 0.8em;
+    font-weight: normal;
+    height: 34px;
+    padding: 0 20px;
+    width: 100%;
+}
+.lock-img {
+    background-image: url(https://plugin.intuitcdn.net/identity-authn-core-ui/1.0.0-dev.52/images/icon-whitelock@3x.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    display: inline-block;
+    height: 1em;
+    margin-right: 4px;
+    margin-top: 2px;
+    vertical-align: text-top;
+    width: .8em;
 }
