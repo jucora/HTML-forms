@@ -155,13 +155,30 @@ ul img {
     text-align: center;
 }
 
-.form-header{
-
+/*Form */
+.form-label{
+    color: #404040;
+    font-family: 'Nunito', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 25px;
+    padding-bottom: 6px;
+}
+.form-input{
+    border: 1px solid #C1C5C8;
+    border-radius: 3px;
+    font-size: 16px;
+    height: 40px;
+    line-height: 1.3em;
+    margin-right: 8px;
+    min-width: 160px;
+    padding-left: 8px;
+    padding-right: 6px;
+    padding-top: 6px;
+    width: 100%;
 }
 
-.email-input{}
-.phone-input{}
-.password-input{}
+
 .submit-button{}
 .form-intructions{}
 .form-footer{}
