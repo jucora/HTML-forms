@@ -125,6 +125,7 @@ ul img {
 
 .form-area {
     background-color: white;
+    border: 1px solid #C1C5C8;
     box-sizing: border-box;
     height: 80%;
     margin: auto;
@@ -225,11 +226,29 @@ ul img {
     font-weight: 400;
     margin-top: 6px;
 }
-
-
-
-
-
-/* .form-intructions{}
-.form-footer{} */
+.ftr-txt-1 {
+    color: #757575;
+    font-family: 'Nunito', sans-serif;
+    font-size: 12px;
+    font-style: italic; 
+    text-align: center;
+}
+strong {
+    color: #0077C5;
+}
+strong:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
+.form-footer {
+    background-color: #ECEEF1;
+    margin: 32px -30px -30px;
+    padding: 16px;
+    text-align: center;
+}
+.ftr-txt-2 {
+    color: #8d9096;
+    font-family: 'Nunito', sans-serif;
+    font-size: 10px;
+}
 
