@@ -185,9 +185,51 @@ ul img {
     margin: 3px auto;
     text-align: left;
 }
+.submit-button {
+    background: #0077C5;
+    border: #0077C5;
+    border-radius: 4px;
+    box-shadow: 0 1px 1px 0 rgba(0,0,0,.75);
+    cursor: pointer;
+    display: inline-block;
+    height: 35px;
+    line-height: 1.428571429;
+    margin-bottom: 0;
+    min-width: 100px;
+    padding: 6px 12px;
+    vertical-align: middle;
+    text-align: center;
+    text-shadow: none;
+    white-space: nowrap;
+    width: 93%;
+}
+.lock-img {
+    background: #0077C5;
+    display: inline-block;
+    height: 1em;
+    margin-right: 4px;
+    margin-top: 2px;
+    vertical-align: text-top;
+    width: .8em;
+}
+.btn-txt {
+    background: #0077C5;
+    color: white;
+    font-size: 17px;
+}
+.btn-2 {
+    background: #0077C5;
+    border: none;
+    font-family: 'Nunito', sans-serif;
+    font-size: 1.1em;
+    font-weight: 400;
+    margin-top: 6px;
+}
 
 
-.submit-button{}
-.form-intructions{}
-.form-footer{}
+
+
+
+/* .form-intructions{}
+.form-footer{} */
 
