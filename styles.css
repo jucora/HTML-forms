@@ -252,3 +252,26 @@ strong:hover {
     font-size: 10px;
 }
 
+/* Footer */
+
+footer {
+    color: #505050;
+    display: block;
+    font-family: 'Nunito', sans-serif;
+    font-size: 12px;
+    margin: 0 auto;
+    padding: 20px 0;
+    text-align: center;
+    width: 90%;
+}
+.ftr-links {
+    padding: 0 0 10px 0;
+    width: 710px;
+}
+.ftr-list {
+    display: block;
+    list-style: none;
+    margin: 0 auto;
+}
+
+
