@@ -121,6 +121,8 @@ ul img {
     vertical-align: text-bottom;
 }
 
+
+
 /* Form Area */
 
 .form-area {
@@ -154,6 +156,14 @@ ul img {
     line-height: 1.2;
     padding-top: 20px;
     text-align: center;
+}
+
+.learn-more{
+    text-decoration: none;
+}
+
+.learn-more:hover{
+    text-decoration: underline;
 }
 
 /*Form */
