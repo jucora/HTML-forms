@@ -2,12 +2,16 @@
 body {
     background: #eceef1;
 }
+
+.font{
+    font-family: 'Nunito', sans-serif;
+}
+
 div {
     display: block;
 }
 .sign-up {
     background: #eceef1;
-    /* background-color: chocolate; */
     float: none;
     padding: 10px 30px;
 }
@@ -17,7 +21,6 @@ div {
     width: 300px;
 }
 .s-u-left {
-    /* background-color: white; */
     float: left;
     height: 36px;
     margin-right: 10px;
@@ -26,7 +29,6 @@ div {
     width: 170px;
 }
 .accnt-msg {
-    font-family: 'Nunito', sans-serif;
     font-size: 12px;
     height: 18px;
     line-height: 1.5px;
@@ -49,7 +51,6 @@ div {
     border-radius: 4px;
     color: white;
     cursor: pointer;
-    font-family: 'Nunito', sans-serif;
     font-size: 0.8em;
     font-weight: normal;
     height: 34px;
@@ -114,7 +115,6 @@ ul img {
 }
 .icon-description {
     color: gray;
-    font-family: 'Nunito', sans-serif;
     font-size: 20px;
     line-height: 1.5;
     padding: 3px;
@@ -143,14 +143,12 @@ ul img {
 .create-acnt {
     color: #4C4C4C;
     display: inline-block;
-    font-family: 'Nunito', sans-serif;
     font-size: 24px;
     line-height: 1.1;
     text-align: center;
 }
 .create-acnt-description {
     color: #4C4C4C;
-    font-family: 'Nunito', sans-serif;
     font-size: 14px;
     font-weight: 300;
     line-height: 1.2;
@@ -169,7 +167,6 @@ ul img {
 /*Form */
 .form-label{
     color: #404040;
-    font-family: 'Nunito', sans-serif;
     font-size: 14px;
     font-weight: 400;
     line-height: 25px;
@@ -191,7 +188,6 @@ ul img {
 }
 .call-rates {
     color: black;
-    font-family: 'Nunito', sans-serif;
     font-size: 10px;
     margin: 3px auto;
     text-align: left;
@@ -231,14 +227,12 @@ ul img {
 .btn-2 {
     background: #0077C5;
     border: none;
-    font-family: 'Nunito', sans-serif;
     font-size: 1.1em;
     font-weight: 400;
     margin-top: 6px;
 }
 .ftr-txt-1 {
     color: #757575;
-    font-family: 'Nunito', sans-serif;
     font-size: 12px;
     font-style: italic; 
     text-align: center;
@@ -258,7 +252,6 @@ strong:hover {
 }
 .ftr-txt-2 {
     color: #8d9096;
-    font-family: 'Nunito', sans-serif;
     font-size: 10px;
 }
 
@@ -267,7 +260,6 @@ strong:hover {
 footer {
     color: #505050;
     display: block;
-    font-family: 'Nunito', sans-serif;
     font-size: 12px;
     margin: 0 auto;
     padding: 20px 0;
