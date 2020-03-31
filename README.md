@@ -1,11 +1,17 @@
-<h1>HTML Forms</h1>
+<h1 align="center">HTML Forms</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" />
+  <img src="https://img.shields.io/github/contributors/Naereen/StrapDown.js.svg" />
+  <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" />
+</p>
+
 
 ## Table of Contents
-* About
-* Built With
-* Contributing
-* Show Your Support
-* Authors
+* [About](#About)
+* [Built With](#built)
+* [Contributing](#Contributing)
+* [Show Your Support](#show)
+* [Authors](#Authors)
 
 ## About
 
@@ -15,7 +21,7 @@
 
 This is the second project of the Main HTML/CSS curriculum at [Microverse](https://www.microverse.org/). The goal was to build an HTML document that matches the appearance of mint.com’s signup page using html and css. You can see the detailed project specs [here](https://www.theodinproject.com/courses/html5-and-css3/lessons/html-forms)
 
-## Built With
+## Built With <span id="built"></span>
 
 This app was built using the following:
 - HTML5
@@ -25,7 +31,7 @@ This app was built using the following:
 
 Contributions, issues and feature requests are welcome!
 
-## Show your support
+## Show Your Support <span id="show"></span>
 
 Feel free to drop a :+1: to show your support. It'd be greatly appreciated it :pray:
 
